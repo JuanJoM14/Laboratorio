@@ -12,8 +12,9 @@ public class Person {
     private String nombre;
     private String SuperNombre;
     private String pais;
-    
+    //JuanJoseMonsalve
     public Person() {
+        System.out.println("Juan Jose Monsalve");
     }
     
     public Person(String nombre, String SuperNombre, String Pais){
